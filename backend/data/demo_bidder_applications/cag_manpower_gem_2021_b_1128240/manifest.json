@@ -1,0 +1,109 @@
+{
+  "demo": true,
+  "synthetic_data": true,
+  "notice": "DEMO / SYNTHETIC DATA \u2014 FOR TESTING AND EVALUATION ONLY \u2014 NOT A REAL GOVERNMENT RECORD",
+  "tender": {
+    "file_name": "01_CAG_Manpower_Hiring_BidDoc_GEM_2021_B_1128240.pdf",
+    "bid_number": "GEM/2021/B/1128240",
+    "internal_document_no": "46/GS/114-2021",
+    "title": "Hiring of Manpower Services (Un-skilled, Skilled and Clerical/Non-Technical Supervisory staff)",
+    "issuing_authority": "Office of the Comptroller & Auditor General (CAG) of India, New Delhi",
+    "ministry": "Comptroller And Auditor General Of India",
+    "estimated_value": 71472780,
+    "estimated_value_display": "\u20b97,14,72,780 (\u20b97.14 Cr)",
+    "emd_amount": 3573639,
+    "turnover_requirement_lakhs": 357.0,
+    "past_experience_years": 3,
+    "mse_exemption_permitted": false,
+    "startup_exemption_permitted": false
+  },
+  "bidder": {
+    "legal_name": "Aravind Integrated Solutions Private Limited",
+    "trade_name": "Aravind Integrated Solutions Pvt. Ltd.",
+    "synthetic": true,
+    "company_type": "Private Limited Company (Companies Act, 2013)",
+    "incorporation_date": "2016-06-14",
+    "cin": "U74999DL2016PTC301429",
+    "pan": "AAACA9182K",
+    "gstin": "07AAACA9182K1Z5",
+    "epf_code": "DLCPM0094821000",
+    "esic_code": "11000847290001001",
+    "delhi_labour_license": "CLA/DLC/ND/2018/04291",
+    "udyam_number": "UDYAM-DL-08-0042819",
+    "registered_address": "Suite 402, 4th Floor, Pragati Deep Building, District Centre, Laxmi Nagar, New Delhi - 110092",
+    "delhi_branch_address": "B-18, Ground Floor, Barakhamba Road, Connaught Place, New Delhi - 110001",
+    "authorized_signatory": "Rajesh K. Varma (Managing Director, DIN: 07412895)",
+    "contact_email": "tenders@aravindsolutions.in.demo",
+    "contact_phone": "+91-11-48291040"
+  },
+  "documents": [
+    {
+      "file_name": "01_Bid_Submission_and_Technical_Bid_Form.pdf",
+      "document_type": "BID_SUBMISSION_AND_TECHNICAL_FORM",
+      "pages": 2,
+      "description": "Annexure-1 Letter of Bid committing to 90 days validity & Annexure-6 Technical Bid Form with comprehensive bidder profile and checklist."
+    },
+    {
+      "file_name": "02_Company_Incorporation_and_Statutory_Registrations.pdf",
+      "document_type": "STATUTORY_REGISTRATIONS_DOSSIER",
+      "pages": 2,
+      "description": "RoC Certificate of Incorporation, Delhi Office Proof, PAN Card, GSTIN Registration (with trade name variation), EPF, ESIC, and Delhi Labour License."
+    },
+    {
+      "file_name": "03_Financial_Turnover_and_Audited_Statements.pdf",
+      "document_type": "FINANCIAL_TURNOVER_AND_AUDITED_STATEMENTS",
+      "pages": 2,
+      "description": "CA Turnover Certificate with UDIN certifying 3-year average of Rs. 5.06 Cr + Audited P&L showing FY 2019-20 operational revenue of Rs. 5.40 Cr."
+    },
+    {
+      "file_name": "04_Past_Experience_Work_Orders_and_Completion.pdf",
+      "document_type": "PAST_EXPERIENCE_EVIDENCE",
+      "pages": 2,
+      "description": "Work Orders and Completion Certificates for Project 1 (CBDT, Rs. 3.82 Cr), Project 2 (DPIIT, Rs. 2.95 Cr), and Project 3 (SAIL, Rs. 1.90 Cr)."
+    },
+    {
+      "file_name": "05_Statutory_Affidavits_and_Compliance_Undertakings.pdf",
+      "document_type": "STATUTORY_AFFIDAVITS_AND_UNDERTAKINGS",
+      "pages": 2,
+      "description": "Annexure-7 (Terms Acceptance), Annexure-8 (Non-conviction/No relatives), Annexure-10 (Minimum Wages & Labour Compliance), ISO 9001:2015 Cert, and typing speed statement."
+    },
+    {
+      "file_name": "06_EMD_Bank_Guarantee_State_Bank_of_India.pdf",
+      "document_type": "EARNEST_MONEY_DEPOSIT_BANK_GUARANTEE",
+      "pages": 1,
+      "description": "Original SBI Bank Guarantee for Rs. 35,73,639/- valid through 15.08.2021 in favour of PAO CAG."
+    }
+  ],
+  "intentional_findings": [
+    {
+      "type": "NAME_VARIATION",
+      "details": "Legal name 'Aravind Integrated Solutions Private Limited' on Incorporation vs Trade Name 'Aravind Integrated Solutions Pvt. Ltd.' on GST and CA Certificate.",
+      "expected_result": "MATCH_WITH_VARIATION / ACCEPTABLE_NORMALIZATION"
+    },
+    {
+      "type": "FINANCIAL_DISCREPANCY",
+      "details": "CA Certificate certifies FY 2019-20 turnover as Rs. 6,20,40,000/-, whereas Audited P&L reports Revenue from Operations as Rs. 5,40,25,000/- (Discrepancy: Rs. 80.15 Lakhs).",
+      "expected_result": "DISCREPANCY_FLAGGED / OFFICER_REVIEW_REQUIRED"
+    },
+    {
+      "type": "EXPERIENCE_PARTIALITY",
+      "details": "Tender requires 1 order of 80% (Rs. 5.71 Cr) OR 2 orders of 50% (Rs. 3.57 Cr) OR 3 orders of 40% (Rs. 2.85 Cr). Project 3 (SAIL) is only Rs. 1.90 Cr and lacks a formal final completion certificate.",
+      "expected_result": "PARTIAL_COMPLIANCE / DEFICIENCY_FLAGGED"
+    },
+    {
+      "type": "MISSING_DOCUMENT",
+      "details": "Annexure-9 Notarized Affidavit for VVIP / Sensitive Area Experience (Clause 2(d)(ii)) was not uploaded in the package.",
+      "expected_result": "EVIDENCE_MISSING / MANDATORY_CRITERION_UNFULFILLED"
+    },
+    {
+      "type": "TECHNICAL_AMBIGUITY",
+      "details": "Annexure-5 specifies 15,000 key depressions/hour for clerical staff; bidder provides an in-house assertion without third-party skill certification or speed logs.",
+      "expected_result": "CLARIFICATION_PENDING"
+    },
+    {
+      "type": "EXTERNAL_VERIFICATION_LIMITATION",
+      "details": "Synthetic GST/PAN/Udyam values are processed without claiming unauthenticated external government verification.",
+      "expected_result": "SOURCE_ACCESS_NOT_CONFIGURED / MANUAL_VERIFICATION_ADVISED"
+    }
+  ]
+}

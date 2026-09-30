@@ -1,0 +1,79 @@
+SOURCE (official government domain): https://prasarbharati.gov.in/wp-content/uploads/2026/05/Bid_Document_Extended.pdf
+Issuing Organization: Doordarshan (Prasar Bharati), DD Free Dish Todapur
+Ministry: Ministry of Information and Broadcasting, Government of India
+Portal: GeM (Government e-Marketplace), mirrored on the official prasarbharati.gov.in site
+GeM Bid Number: GEM/2026/B/7439008, dated 06-05-2026 (extended)
+Title: Custom Bid for Services — Electronic Program Guide (EPG) Service for DD Free Dish Channels
+Pages: 6
+Retrieved via web fetch on: 2026-09-22 (content below is the extracted text of the official PDF; see source URL for the
+original binary PDF)
+================================================================================
+
+Bid Status: Active | Bid Validity (From End Date): 180 Days | Contract Duration: 1 Year
+Bid Start Date/Time: 06-05-2026 11:56:11 | Bid End Date/Time (as extended): 03-06-2026 12:00:00 | Bid Opening: 03-06-2026
+12:30:00 (auto-extended per Corrigendum)
+Ministry: Ministry Of Information And Broadcasting | Organisation: Doordarshan | Office: Doordarshan DTH Todapur
+Item Category: Custom Bid for Services - Electronic Program Guide Service for DD Free Dish Channels
+Similar Category: Massive Data Processing Service
+
+Minimum Average Annual Turnover of the Bidder (3 Years): Rs. 10 Lakh(s)
+Years of Past Experience Required for same/similar service: 3 Years
+Past Experience of Similar Services required: Yes
+MSE Relaxation for Years of Experience and Turnover: No | Startup Relaxation: No
+Documents required from seller: Experience Criteria, Bidder Turnover
+Type of Bid: Two Packet Bid | Evaluation Method: Total value wise evaluation | Estimated Bid Value: Rs. 460,000
+EMD Detail: Required: No | ePBG Detail: Required: No
+
+MII Compliance: Yes | MSE Purchase Preference: Yes (up to L1+15% price band, MSE OEMs)
+
+ELIGIBILITY / CONDITIONAL CLAUSES:
+1. Minimum average annual financial turnover: certified Audited Balance Sheets or CA/Cost Accountant certificate;
+<3-year-old bidders assessed on completed-years average.
+2. Years of Past Experience: contracts/orders with Central/State Govt Organization/PSU for similar services, per financial
+year, to be uploaded.
+3. Purchase preference to MSEs per PPP-MSE Order 2012 — L-1/MSE price-band rule (L-1+15%) with 100% order quantity to
+qualifying MSE bidder subject to L-1 price acceptance.
+4. Repeat of L-1/MSE price-band rule.
+5. Estimated Bid Value declared solely for EMD/eligibility guidance.
+6. Past Experience of Similar Services — bidder must have, in last three financial years, completed EITHER:
+   (a) three similar services each costing not less than 40% of estimated cost; OR
+   (b) two similar services each costing not less than 50% of estimated cost; OR
+   (c) one similar service costing not less than 80% of estimated cost.
+
+ADDITIONAL QUALIFICATION / DATA REQUIRED (documents, by reference):
+- Scope of Work
+- Payment Terms
+- GEM Availability Report (GAR)
+- Undertaking of Competent Authority (mandatory for Custom Bid for Services, standard format)
+- Project Experience and Qualifying Criteria Requirement
+
+TECHNICAL SPECIFICATION:
+Description/Nomenclature of Service: Electronic Program Guide Service for DD Free Dish Channels
+Regulatory/Statutory Compliance of Service: Required (YES)
+Compliance of Service to SOW, STC, SLA etc.: Required (YES)
+Consignee: Dileep Kumar Lal Kushwaha, Dev Prakash Shastri Marg, Opposite Delhi Traffic Police HQ, Todapur, New Delhi
+110012
+Quantity: Project/Lumpsum Based
+
+BUYER-ADDED BID SPECIFIC TERMS AND CONDITIONS:
+1. Option Clause: Buyer may increase/decrease contract quantity or duration up to 25% at time of contract issue; once
+issued, further variation capped at 25%; bidders bound to accept revised quantity/duration.
+2. Certificates: Bidder's offer liable to rejection if any certificate/document sought in the Bid document, ATC, or
+Corrigendum is not uploaded.
+3. Past Project Experience — proof accepted (any one): (a) Contract copy + Invoice(s) with self-certification of execution;
+(b) Execution certificate by client with contract value; (c) other supporting document.
+4. Assignment/Sub-contracting: Seller shall not assign or sub-contract the Contract, in whole or part, without prior written
+consent of buyer; seller remains jointly/severally liable with any assignee/sub-contractor for due performance.
+
+DISCLAIMER (GeM prohibited-clause list applicable to buyer-added ATCs) and GeM Labour Code compliance clause (Code
+on Wages 2019, Industrial Relations Code 2020, OSH Code 2020, Code on Social Security 2020, with continuity of
+pre-existing labour enactments — Minimum Wages Act 1948, Payment of Wages Act 1936, Payment of Bonus Act 1965,
+Equal Remuneration Act 1976, Payment of Gratuity Act 1972 — until full notification of the new Codes).
+GeM GTC Clause 26 land-border restriction: bidders from countries sharing a land border with India eligible only if
+registered with the Competent Authority; false declaration/non-compliance is ground for immediate contract termination
+and legal action.
+
+NOTE: This bid document shows visible signs of the live GeM "Bid Finalization" admin page having been captured
+alongside the bid document (buyer-facing UI text such as "Cancel Bid / Extend Bid / Edit Terms" and a Corrigendum /
+auto-extension log entry appear in the source PDF). This is a good real-world example of the kind of noisy,
+non-uniform PDF structure BidGuard's extraction pipeline needs to be robust to.

@@ -1,0 +1,82 @@
+SOURCE (official government domain): https://mib.gov.in/sites/default/files/2024-09/gem-bid-for-design-development-implementation-and-maintenance-of-integrated-dashboard.pdf
+Issuing Organization: Research Reference and Training Division (RRTD), Ministry of Information and Broadcasting,
+Government of India
+Portal: GeM (Government e-Marketplace), mirrored on the official mib.gov.in site
+GeM Bid Number: GEM/2024/B/5391658, dated 12-09-2024
+Title: Custom Bid for Services — Design, Development, Implementation and Maintenance of Integrated Dashboard
+Pages: 5
+Retrieved via web fetch on: 2026-09-22 (content below is the extracted text of the official PDF; see source URL for the
+original binary PDF)
+================================================================================
+
+Bid End Date/Time: 03-10-2024 14:00:00 | Bid Opening Date/Time: 03-10-2024 14:30:00
+Bid Offer Validity (From End Date): 30 Days
+Ministry: Ministry Of Information And Broadcasting | Department: Ministry Of Information And Broadcasting
+Organisation: Research Reference And Training Division (RRTD) | Office: New Delhi
+Item Category: Custom Bid for Services - Design Development Implementation and Maintenance of Integrated Dashboard
+Contract Period: 4 Years, 1 Day
+
+Minimum Average Annual Turnover of the Bidder (3 Years): Rs. 3,200 Lakh(s)
+Years of Past Experience Required for same/similar service: 5 Years
+MSE Exemption for Years of Experience and Turnover: Yes
+Startup Exemption for Years of Experience and Turnover: Yes
+Documents required from seller: Experience Criteria, Bidder Turnover, Certificate (Requested in ATC), Additional Docs 1-4
+(Requested in ATC)
+Type of Bid: Single Packet Bid | Evaluation Method: Total value wise evaluation
+Time allowed for Technical Clarifications: 2 Days
+
+EMD Detail: Required: No | ePBG Detail: Required: No
+MII Compliance: Yes | MSE Purchase Preference: Yes
+
+ELIGIBILITY / CONDITIONAL CLAUSES:
+1. If the bidder is an MSE per MSME rules, exempted from "Bidder Turnover" and "Experience Criteria" (and OEM Average
+Turnover if MSE OEM), subject to meeting quality/technical specs and uploading supporting documents.
+2. If the bidder is a Startup, exempted from "Bidder Turnover" and "Experience Criteria" (and OEM Average Turnover if
+Startup OEM), subject to meeting quality/technical specs and uploading supporting documents.
+3. Minimum average annual financial turnover: certified Audited Balance Sheets or CA/Cost Accountant certificate for the
+relevant period; <3-year-old bidders assessed on completed-years average.
+4. Years of Past Experience: contracts/orders with Central/State Govt Organization/PSU for similar services, per financial
+year, to be uploaded.
+5. Purchase preference to MSEs per Public Procurement Policy for MSEs Order 2012 (23.03.2012) — if L-1 is not MSE and an
+MSE Service Provider quotes within L-1+15%, 100% order quantity awarded to that MSE bidder subject to L-1 price
+acceptance.
+6. Repeat of L-1/MSE price-band rule.
+7. Estimated Bid Value declared solely for EMD/eligibility guidance, not price reasonableness.
+
+ADDITIONAL QUALIFICATION / DATA REQUIRED (documents to be uploaded by buyer/seller, listed by filename reference in
+original bid):
+- GEM Availability Report (GAR)
+- Buyer's Competent Authority Approval
+- Undertaking of Competent Authority (mandatory for Custom Bid for Services, standard format)
+- Introduction about the project/services being proposed for procurement using custom bid functionality
+- Instruction To Bidder
+- Pre-Qualification Criteria (PQC), if any
+- Scope of Work
+- Payment Terms
+- Project Experience and Qualifying Criteria Requirement
+- Any other documents per specific buyer requirement (x2)
+
+TECHNICAL SPECIFICATION:
+Description/Nomenclature of Service: Design Development Implementation and Maintenance of Integrated Dashboard
+Regulatory/Statutory Compliance of Service: Required (YES)
+Compliance of Service to SOW, STC, SLA etc.: Required (YES)
+Consignee: Ritesh Pathak, Room No. 446, Soochna Bhavan, Lodi Road, New Delhi 110003
+Quantity: 1 (Project/Lumpsum based hiring)
+
+BUYER-ADDED BID SPECIFIC TERMS AND CONDITIONS:
+1. Option Clause: Buyer may increase/decrease contract quantity or duration up to 25% at time of contract issue; once
+issued, further variation capped at 25%; bidders bound to accept revised quantity/duration.
+2. Certificates: Bidder's offer liable to rejection if any certificate/document sought in the Bid document, ATC, or
+Corrigendum is not uploaded.
+3. Past Project Experience — proof accepted (any one): (a) Contract copy + Invoice(s) with self-certification of execution;
+(b) Execution certificate by client with contract value; (c) other supporting document (e.g. Third Party Inspection release
+note).
+
+DISCLAIMER (GeM prohibited-clause list applicable to buyer-added ATCs, e.g.): Class I/II supplier definitions must match
+DPIIT Order; no EMD demand where GTC exempts seller; no BoQ bid for single item; no brand/make/model mandate; no
+physical-document submission mandate; no floating of "work" contracts as Custom Services Bids; no sample/trial demand
+outside approved policy; no foreign-only certification mandate absent Indian-standard equivalence; no
+foreign/single-organisation-only experience mandate; no tender/participation/auction fee.
+GeM GTC Clause 26 land-border restriction: bidders from countries sharing a land border with India eligible only if
+registered with the Competent Authority; false declaration/non-compliance is ground for immediate contract termination
+and legal action.

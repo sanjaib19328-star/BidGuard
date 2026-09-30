@@ -1,0 +1,23 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: bidguard_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: bidguard
+      POSTGRES_USER: bidguard
+      POSTGRES_PASSWORD: bidguard
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bidguard -d bidguard"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+
+volumes:
+  postgres_data:
+    driver: local

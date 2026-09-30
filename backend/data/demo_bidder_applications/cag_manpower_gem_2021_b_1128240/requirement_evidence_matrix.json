@@ -1,0 +1,179 @@
+[
+  {
+    "requirement_id": "REQ-CAG-01",
+    "tender_clause": "Annexure-2, Clause 2(a) (Page 3 & 4)",
+    "dimension": "ELIGIBILITY",
+    "requirement": "The Bidder shall necessarily be a legally valid entity, either a Limited Company / Private Limited Company registered under the Companies Act, 2013, or an LLP under the LLP Act, 2008. JV/Consortium/Partnership/Proprietorship not permitted.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Attested copy of Incorporation Certificate issued by RoC/MCA"
+    ],
+    "submitted_documents": [
+      "02_Company_Incorporation_and_Statutory_Registrations.pdf (Page 1)"
+    ],
+    "extracted_value": "Private Limited Company incorporated on 14/06/2016 (CIN: U74999DL2016PTC301429)",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "Valid legal entity incorporated under Companies Act 2013; no prohibited consortium/JV structure.",
+    "verification_method": "MCA Incorporation Registry Structure Verification"
+  },
+  {
+    "requirement_id": "REQ-CAG-02",
+    "tender_clause": "Annexure-2, Clause 2(g) (Page 4)",
+    "dimension": "ELIGIBILITY",
+    "requirement": "The bidder should have its office located in Delhi / NCT of Delhi region. Documentary proof shall be submitted.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Registered Lease Deed / Property Tax / Commercial Electricity Bill in Delhi"
+    ],
+    "submitted_documents": [
+      "02_Company_Incorporation_and_Statutory_Registrations.pdf (Page 1 & 2)"
+    ],
+    "extracted_value": "Registered Office: Suite 402, Pragati Deep Building, Laxmi Nagar, New Delhi - 110092 + BSES Yamuna CA No. 102948190",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "Registered office located within NCT of Delhi region as certified by MCA and municipal utility records.",
+    "verification_method": "Documentary verification of Delhi municipal jurisdiction"
+  },
+  {
+    "requirement_id": "REQ-CAG-03",
+    "tender_clause": "Annexure-2, Clause 2(b) (Page 3 & 4)",
+    "dimension": "STATUTORY",
+    "requirement": "Registration under Income Tax (PAN), Goods and Services Tax (GST), Employees Provident Fund (EPF), Employees State Insurance (ESIC), and Labour License.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "PAN Card",
+      "GST REG-06",
+      "EPF Registration Code",
+      "ESIC Employer Registration",
+      "Delhi Labour License"
+    ],
+    "submitted_documents": [
+      "02_Company_Incorporation_and_Statutory_Registrations.pdf (Page 2)"
+    ],
+    "extracted_value": "PAN: AAACA9182K | GST: 07AAACA9182K1Z5 | EPF: DLCPM0094821000 | ESIC: 11000847290001001 | Labour License: CLA/DLC/ND/2018/04291",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "All five mandatory statutory registration certificates submitted; entity name exhibits minor 'Private Limited' vs 'Pvt. Ltd.' variation on GST.",
+    "verification_method": "Format checking and statutory registration code validation"
+  },
+  {
+    "requirement_id": "REQ-CAG-04",
+    "tender_clause": "Bid Data Sheet & Annexure-2, Clause 2(e) (Page 1 & 4)",
+    "dimension": "FINANCIAL",
+    "requirement": "Minimum Average Annual Financial Turnover of Rs. 357.0 Lakhs in the similar business of providing manpower during last 3 financial years (2017-18, 2018-19, 2019-20).",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Certified Audited Balance Sheets",
+      "CA Turnover Certificate with UDIN"
+    ],
+    "submitted_documents": [
+      "03_Financial_Turnover_and_Audited_Statements.pdf (Page 1 & 2)"
+    ],
+    "extracted_value": "CA Certificate Turnover: FY 17-18 Rs. 4.12 Cr, FY 18-19 Rs. 4.85 Cr, FY 19-20 Rs. 6.20 Cr (Avg: Rs. 5.06 Cr). Audited P&L FY 19-20: Rs. 5.40 Cr.",
+    "expected_status": "REVIEW",
+    "expected_finding": "Average turnover exceeds threshold; however, an internal discrepancy of Rs. 80.15 Lakhs exists between CA Certificate (Rs. 6.20 Cr) and Audited P&L (Rs. 5.40 Cr) for FY 2019-20.",
+    "verification_method": "Cross-examination of CA Certificate vs Audited P&L Statements"
+  },
+  {
+    "requirement_id": "REQ-CAG-05",
+    "tender_clause": "Bid Details & Clause 3, Annexure-2 (Page 1 & 4)",
+    "dimension": "FINANCIAL",
+    "requirement": "Earnest Money Deposit (EMD) of Rs. 35,73,639/- (5% of Estimated Value) via Bank Guarantee / DD from State Bank of India valid for 90 days + 30 days.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Bank Guarantee from State Bank of India in favour of PAO CAG"
+    ],
+    "submitted_documents": [
+      "06_EMD_Bank_Guarantee_State_Bank_of_India.pdf (Page 1)"
+    ],
+    "extracted_value": "SBI BG No: 0069121BG0004128 for Rs. 35,73,639/- valid up to 15.08.2021",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "EMD Bank Guarantee matches exact required amount (Rs. 35,73,639/-), issued by required advisory bank (SBI), valid for 120 days.",
+    "verification_method": "Bank Guarantee validity, amount, and advisory bank verification"
+  },
+  {
+    "requirement_id": "REQ-CAG-06",
+    "tender_clause": "Bid Data Sheet Page 2, Clause 4",
+    "dimension": "EXPERIENCE",
+    "requirement": "Executed at least 1 order of 80% (Rs. 5.71 Cr) OR 2 orders of 50% (Rs. 3.57 Cr) OR 3 orders of 40% (Rs. 2.85 Cr) for similar services in last 3 years to Govt/PSU with completion certificates.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Contracts / Work Orders",
+      "Documentary evidence of successful completion with client contact"
+    ],
+    "submitted_documents": [
+      "04_Past_Experience_Work_Orders_and_Completion.pdf (Page 1 & 2)"
+    ],
+    "extracted_value": "Project 1 (CBDT): Rs. 3.82 Cr (Completed). Project 2 (DPIIT): Rs. 2.95 Cr (Completed). Project 3 (SAIL): Rs. 1.90 Cr (Interim letter only).",
+    "expected_status": "NON_COMPLIANT",
+    "expected_finding": "Does not satisfy 1x80% (no Rs. 5.71 Cr order), does not satisfy 2x50% (only 1 order exceeds Rs. 3.57 Cr), and fails 3x40% (Project 3 is Rs. 1.90 Cr vs min Rs. 2.85 Cr and lacks final completion certificate).",
+    "verification_method": "Numerical threshold evaluation and completion certificate audit"
+  },
+  {
+    "requirement_id": "REQ-CAG-07",
+    "tender_clause": "Annexure-2, Clause 2(d)(ii) (Page 3)",
+    "dimension": "EXPERIENCE",
+    "requirement": "Experience in providing manpower services in any of the sensitive / VVIP areas like PMO, IB, Ministries/Departments of GOI, President's Secretariat, Parliament, Supreme Court, High Court, supported by Annexure-9 Notarized Affidavit.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Annexure-9 Notarized Affidavit for VVIP/Sensitive Area Experience"
+    ],
+    "submitted_documents": [
+      "01_Bid_Submission_and_Technical_Bid_Form.pdf (Clause mentions)",
+      "05_Statutory_Affidavits_and_Compliance_Undertakings.pdf"
+    ],
+    "extracted_value": "VVIP experience mentioned informally in bid letter, but sworn Annexure-9 Notarized Affidavit is missing from dossier.",
+    "expected_status": "NON_COMPLIANT",
+    "expected_finding": "Mandatory Annexure-9 Notarized Affidavit for VVIP/Sensitive Area Experience was not submitted in the application pack.",
+    "verification_method": "Mandatory checklist document presence audit"
+  },
+  {
+    "requirement_id": "REQ-CAG-08",
+    "tender_clause": "Annexure-2, Clause 2(f) & Annexure-10 (Page 4)",
+    "dimension": "STATUTORY",
+    "requirement": "Notarized affidavit and undertaking that workers employed would be paid at least minimum wages as per orders of Govt. of NCT of Delhi and oblige all statutory requirements (EPF/ESI).",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Annexure-10 Notarized Affidavit on Rs. 10 Stamp Paper"
+    ],
+    "submitted_documents": [
+      "05_Statutory_Affidavits_and_Compliance_Undertakings.pdf (Page 2)"
+    ],
+    "extracted_value": "Annexure-10 Notarized Affidavit executed on Stamp Paper IN-DL91820491829042U committing to Delhi NCT minimum wages and 15th-of-month EPF/ESI deposits.",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "Complete statutory undertaking furnished with explicit commitment to NCT of Delhi wage notifications.",
+    "verification_method": "Legal text and notary attestation validation"
+  },
+  {
+    "requirement_id": "REQ-CAG-09",
+    "tender_clause": "Additional Terms & Conditions (ATC) Clause 5 (Page 2)",
+    "dimension": "TECHNICAL",
+    "requirement": "The bidder or the OEM of the offered products must have ISO 9001 certification.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Valid ISO 9001:2015 Certificate"
+    ],
+    "submitted_documents": [
+      "05_Statutory_Affidavits_and_Compliance_Undertakings.pdf (Page 2)"
+    ],
+    "extracted_value": "ISO 9001:2015 Certificate QMS-2019-DEL-84920 valid till 17.07.2022 for Manpower & Facility Management.",
+    "expected_status": "COMPLIANT",
+    "expected_finding": "Valid ISO 9001:2015 certificate from accredited body submitted covering outsourced manpower scope.",
+    "verification_method": "Accreditation and validity date verification"
+  },
+  {
+    "requirement_id": "REQ-CAG-10",
+    "tender_clause": "Annexure-5 Schedule of Works / Services (Page 5)",
+    "dimension": "TECHNICAL",
+    "requirement": "Clerical/Non-Technical Graduate personnel must have MS Office proficiency and minimum 15,000 key depressions per hour typing speed.",
+    "is_mandatory": true,
+    "required_evidence": [
+      "Typing speed certification / skill evaluation evidence"
+    ],
+    "submitted_documents": [
+      "05_Statutory_Affidavits_and_Compliance_Undertakings.pdf (Page 2)"
+    ],
+    "extracted_value": "Self-declaration of internal in-house HR evaluation; no test certificates or speed logs attached.",
+    "expected_status": "REVIEW",
+    "expected_finding": "Technical ambiguity: Bidder claims in-house screening but omits objective third-party typing test reports or speed verification logs.",
+    "verification_method": "Technical competency evidence audit"
+  }
+]

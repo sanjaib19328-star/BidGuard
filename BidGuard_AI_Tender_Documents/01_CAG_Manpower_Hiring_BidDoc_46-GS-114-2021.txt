@@ -1,0 +1,203 @@
+SOURCE (official government domain): https://www.cag.gov.in/uploads/tenders/tenders-Manpower-0605ad73e121995-03771515.pdf
+Issuing Organization: Office of the Comptroller and Auditor General (CAG) of India, New Delhi
+Portal: GeM (Government e-Marketplace) bid document, mirrored on the CAG's own official tenders page (cag.gov.in)
+Bid Document No.: 46/GS/114-2021, dated 22.03.2021 | GeM Bid Number: GEM/2021/B/1128240
+Title: Hiring of Manpower Services (Un-skilled, Skilled and Clerical/Non-Technical Supervisory staff)
+Pages: 48
+Retrieved via web fetch on: 2026-09-22 (content below is the extracted text of the official PDF; see source URL for the
+original binary PDF with original pagination/formatting)
+================================================================================
+
+Bid Details
+Bid End Date/Time 01-05-2021 21:00:00
+Bid Opening Date/Time 01-05-2021 21:30:00
+Bid Life Cycle (From Publish Date) 90 (Days)
+Bid Offer Validity (From End Date) 30 (Days)
+Ministry/State Name Comptroller And Auditor General (cag) Of India
+Office Name Office Of Cag Of India, New Delhi
+Item Category Manpower Outsourcing Services - Minimum wage - Unskilled; Admin; Multi-tasking Staff , Manpower
+Outsourcing Services - Minimum wage - Skilled; Admin; Data Entry Operator , Manpower Outsourcing Services - Minimum
+wage - Skilled; Others; Driver - LMV
+Contract Period 1 Year(s)
+Minimum Average Annual Turnover of the Bidder: 357 Lakh(s)
+Years of Past Experience required: 3 Year(s)
+Past Experience of Similar Services required: Yes
+MSE Exemption for Years of Experience and Turnover: No
+Startup Exemption for Years of Experience and Turnover: No
+Document required from seller: Experience Criteria, Bidder Turnover, Certificate (Requested in ATC), Additional Doc 1-4
+(Requested in ATC)
+*In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the buyer
+Estimated Bid Value: 71,472,780
+Evaluation Method: Total value wise evaluation
+
+EMD Detail
+Advisory Bank: State Bank of India
+EMD Percentage(%): 5.00
+EMD Amount: 3,573,639
+ePBG Percentage(%): 10.00, Duration of ePBG required: 14 months
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+(b). EMD & Performance security should be in favour of Beneficiary: PAO, OFFICE OF THE COMPTROLLER AND AUDITOR
+GENERAL OF INDIA, NEW DELHI 110124
+
+1. The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the
+previous financial year, should be as indicated above in the bid document. Documentary evidence in the form of certified
+Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the
+turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the
+bidder is less than 3-year-old, the average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+2. Years of Past Experience required: The bidder must have experience for number of years as indicated above in bid data
+sheet (ending month of March prior to the bid opening) of providing similar type of services to any Central / State Govt
+Organization / PSU / Public Listed Company. Copies of relevant contracts / orders to be uploaded along with bid in support
+of having provided services during each of the Financial year.
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for
+determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+4. Past Experience of Similar Services: The Bidder must have successfully executed / completed at least one single order of
+80% of the Estimated Bid Value or 2 orders each of 50% of the Estimated Bid Value or 3 orders each of 40% of the Estimated
+Bid Value for similar service(s) in last three years to any Central / State Govt Organization / PSU / Public Listed Company.
+Copies of contracts / work orders and documentary evidence of successful execution / completion in support of Past
+Experience of Similar Services along with names, address and contact details of clients shall be uploaded with the bid for
+verification by the Buyer.
+
+Additional Terms and Conditions (buyer-added):
+1. Bidders are advised to check applicable GST on their own before quoting.
+2. Dedicated /toll Free Telephone No. for Service Support required.
+3. Duration of the service contract may be extended up to 6 months beyond the initial contract duration.
+4. Escalation Matrix For Service Support required.
+5. ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification.
+6. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only.
+7. While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST
+portal confirming payment of GST.
+
+---
+OFFICE OF THE COMPTROLLER AND AUDITOR GENERAL OF INDIA, NEW DELHI
+Bid Document No. 46/GS/114-2021 Dated 22.03.2021
+BID DOCUMENT (Scope of Work and Special Conditions of Contract)
+FOR SELECTION OF AGENCY FOR PROVIDING HIRED MANPOWER (Un-skilled, Skilled and Clerical and Non-Technical
+Supervisory staff) to work as Peon / Clerical work
+
+Table of Contents:
+Annexure 1 - Bid Submission Form
+Annexure 2 - Instructions to the Bidders
+Annexure 3 - General Conditions of Contract (GCC)
+Annexure 4 - Special Conditions of Contract (SCC)
+Annexure 5 - Schedule of Works / Services
+Annexure 6 - Technical Bid Form
+Annexure 7 - Notarized Affidavit form for Acceptance of Terms and Conditions of Bid
+Annexure 8 - Notarized Affidavit form for relatives and non-conviction under IPC
+Annexure 9 - Notarized Affidavit form for having experience
+Annexure 10 - Notarized Affidavit form for providing required service
+Annexure 11 - Form of Articles of Agreement
+Annexure 12 - Form of Performance Bank Guarantee
+Annexure 13 - Bid Security Form
+
+ANNEXURE-1: BID SUBMISSION FORM (LETTER OF BID)
+We, the undersigned, declare that: (1) We have examined and have no reservations to the Bidding Documents; (2) We
+undertake to provide the MANPOWER services in conformity with the Bidding Document; (3) Our bid shall be valid for 90
+days from the bid submission deadline; (4) If accepted, we commit to submit performance security; (5) We declare that
+Government of India or any other Government body has not declared us ineligible or blacklisted us; (6) We undertake to
+enter into agreement as per the bidding document; (7) We accept all terms and conditions of the bidding document.
+
+ANNEXURE-2: INSTRUCTIONS TO THE BIDDERS
+1. GENERAL INSTRUCTIONS
+1.1 Office of the Comptroller and Auditor General of India (the "Client") invites e-bids under Two Bid System (Technical and
+Financial) through GeM from reputed firms dealing with Ministries/Govt. departments for providing hired manpower
+services.
+1.3 The Bidder should download the Bid document through GeM Portal and upload it again with signature and stamp,
+acknowledging acceptance of the entire Bid document.
+1.5 Conditional offers, offers with deviations, bids not meeting minimum eligibility criteria, or Technical Bids not
+accompanied with EMD of requisite amount/format are liable to be rejected.
+
+2. MINIMUM ELIGIBILITY CRITERIA
+a. Legal Valid Entity: The Bidder shall necessarily be a legally valid entity, either a Limited Company / Private Limited
+Company registered under the Companies Act, 2013, or an LLP under the LLP Act, 2008. Bidder in the form of JV/Consortium,
+Proprietorship, and Partnership is NOT permitted. A proof for supporting the legal validity of the Bidder shall be submitted.
+b. Registration: The Bidder should be registered with the Income Tax, Goods and Service Tax and also registered under the
+labour laws, Employees Provident Fund Organisation (EPFO), Employees State Insurance Corporation (ESIC).
+c. Clearance: The Bidder should also have clearance from GST, and Income Tax Department. Relevant proof in support shall
+be submitted.
+d. Experience: The Bidder should have (i) at least three years' experience for providing manpower services in Ministries /
+Departments under Government of India and (ii) experience in providing manpower services in any of the sensitive / VVIP
+areas like PMO, IB, Ministries /Departments of GOI, President's Secretariat, Parliament, State Assemblies, Supreme Court of
+India and High Court.
+e. Turnover: The Bidder should have minimum gross turnover in the similar business of providing manpower as per the bid
+document.
+f. The bidder should have its own trained manpower on their rolls. A Notarized affidavit and undertaking that the workers
+employed would be paid at least minimum wages (both for skilled and unskilled) as per orders of Govt. of NCT of Delhi and
+oblige all statutory requirements with respect to ESI, EPF etc.
+g. The bidder should have its office located in Delhi / NCT of Delhi region. The Bidder should submit documentary proof for
+the same.
+
+2.1 Documents supporting the Minimum Eligibility Criteria
+(i) 2(a): attested copy of Incorporation Certificate issued by the Companies Registrar/concerned authority.
+(ii) 2(b): attested copy of PAN, GST Registration, EPF Registration, ESIC Registration and Labour Licence.
+(iii) 2(c): attested copy of ITR and GST/Service Tax Return for the last three financial years.
+(iv) 2(d): attested copy of work orders alongwith work completion certificates / ongoing work certificates + notarized
+affidavit per Annexure-9.
+(v) 2(e): attested copy of the audited balance sheets (audited by Chartered Accountant) for the completed three financial
+years i.e. 2017-18, 2018-19 and 2019-20.
+(vi) Other documents as per Clause 6 of Annexure-2.
+
+3. EARNEST MONEY DEPOSIT (EMD)
+3.1 EMD in the form of Bank Guarantee/Demand Draft of State Bank of India as per GeM bid document. Validity of the
+Bank Guarantee/Demand Draft must be up to 3 (three) months from the date of bid submission, in favour of PAO, Office of
+the CAG of India, payable at New Delhi.
+3.6 The bids without Earnest Money shall be summarily rejected.
+3.8 The bid security (EMD) may be forfeited on withdrawal during bid validity, or on failing to sign contract/furnish
+performance security/honour quoted prices — bidder is also liable to be debarred from future tendering.
+
+4. VALIDITY OF BIDS: 90 days from last date of submission, extendable by 30 days.
+
+5-13. Procedures for e-bid submission via GeM Portal (Two Bid System — Technical & Financial), Technical Bid documents
+required (Annexure-1, 6, 7, 8, 9, 10 + EMD + eligibility-criteria documents), Financial Bid rules (all-inclusive rates: Minimum
+Wages, EPF, ESIC, Uniform, Gratuity, Bonus, statutory charges), Technical Bid Evaluation criteria, Right of Acceptance,
+Notification of Award (Letter of Acceptance), Return of EMD timelines.
+
+ANNEXURE-3: GENERAL CONDITIONS OF CONTRACT (GCC)
+Definitions; Confidentiality; Performance Bank Guarantee (10% of accepted contract value, State Bank of India, in favour of
+PAO CAG); Notice to Proceed; Signing of Contract Agreement; Services Required; Commencement of Services;
+Contractor's Obligations (uniformed/trained personnel, monthly EPF/ESI details submission, ID cards, no child labour <18
+years, organisation chart, code of conduct); Contractor's Liability (indemnification); Client's Obligations; Validity of
+Contract (1 year, extendable on satisfactory performance, right to terminate + blacklist on breach); Payments (GST
+exclusive, invoice by 5th of month, NEFT payment, TDS deduction); Force Majeure; Termination; Disclaimer (near-relative
+conflict-of-interest bar); Insolvency; Currencies of Bid and Payments (INR only); Governing Laws and Settlement of Dispute
+(Arbitration and Conciliation Act 1996, venue New Delhi, jurisdiction Delhi courts); Corrupt or Fraudulent Practices
+(blacklisting provisions).
+
+ANNEXURE-5: SCHEDULE OF WORKS/SERVICES
+Deployment table:
+- Unskilled (Peon/MTS): 177 positions, min. X standard passed
+- Clerical/Non-Technical Graduate (Clerks/DEOs/Stenos/Receptionist): 86 positions, graduate, MS Office proficiency,
+15,000 key depressions/hour
+- Clerical/Non-Technical Non-Graduate (min 12th passed): 10 positions
+- Skilled (Staff Car Drivers): 5 positions
+Penalties: Rs.5,000/day for late salary disbursement (up to 15th of month, else contract terminated + blacklisted); Rs.5,000/
+day/complaint for unsatisfactory performance; Rs.500/absentee/day for staffing shortfall; double-rate deduction for failure
+to fulfil minimum statutory (ESIC/EPF) requirements — treated as breach, contractor liable to be blacklisted.
+Code of Conduct, Confidentiality, Telephone Handling, Patrolling Procedures, Frisking/Checking Procedures for deployed
+staff.
+
+ANNEXURE-6: TECHNICAL BID FORM (fields include): Firm name, authorised signatory, registration & incorporation
+particulars (Private/Public Ltd/Other), Director details, bidder's bank & account no., PAN, GST No., EPF Registration No.,
+ESIC Registration No., EMD particulars (DD/BG no., date, bank), description of similar work executed in last 3 financial
+years (govt departments, value, dates, evidence), checklist of uploaded documents: EMD, PAN copy, GST copy, last-3-years
+Balance Sheet copies, last-3-years ITR copies, Experience Certificates and Work Orders, Annexures 1/6/7/8/9/10.
+
+ANNEXURE-7,8,9,10: Notarized Affidavits (on non-judicial stamp paper of Rs.10/-) covering: acceptance of bid terms;
+non-conviction under Prevention of Corruption Act 1988 / IPC; no relatives employed at CAG; 3 years' manpower-services
+experience including VVIP-area experience; at least one similar contract of not less than Rs.___ crore in last 3 years; own
+trained manpower on rolls; minimum-wage/ESI/EPF compliance undertaking.
+
+ANNEXURE-11: FORM OF CONTRACT AGREEMENT (Articles of Agreement) between Director(P), CAG office and the
+Contractor firm, incorporating LoA, NTP, complete Bid, Addenda, and Performance Bank Guarantee as forming part of the
+Agreement; governed by laws of India; Delhi jurisdiction.
+
+ANNEXURE-12: FORM OF PERFORMANCE BANK GUARANTEE — unconditional, on-demand bank guarantee for 10% of
+Contract Sum from a scheduled bank with a branch in New Delhi, valid through Contract Period + extensions, Demand
+must be filed within 6 months of expiry, governed by Indian law / Delhi courts jurisdiction.
+
+ANNEXURE-13: BID SECURITY FORM (EMD bank guarantee format) — conditions of forfeiture: withdrawal during bid
+validity; failure to execute contract/furnish performance security/perform duties after notification of acceptance; guarantee
+valid for bid-validity period + 30 days, up to 120 days.

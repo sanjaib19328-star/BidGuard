@@ -1,0 +1,113 @@
+SOURCE (official government domain): https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/04/GEM-BID-7431794.pdf
+Issuing Organization: All India Institute of Medical Sciences (AIIMS), Bhubaneswar
+Ministry: Ministry of Health and Family Welfare, Government of India
+Portal: GeM (Government e-Marketplace), mirrored on AIIMS Bhubaneswar's official .nic.in site
+GeM Bid Number: GEM/2026/B/7437194
+Title: Supply of Acyclovir Tablets, Metoprolol Injection, and Budesonide Respirator Solution (Nebulizer use)
+Pages: 22
+Retrieved via web fetch on: 2026-09-22 (content below is the extracted text of the official PDF; see source URL for the
+original binary PDF)
+================================================================================
+
+Bid Details
+Bid Status: Active | Quantity: 34,540
+Bid Start Date/Time: 16-04-2026 14:02:38 | Bid End Date/Time: 12-05-2026 11:00:00 | Bid Opening: 12-05-2026 11:30:00
+Bid Validity (From End Date): 180 Days
+Ministry: Ministry Of Health And Family Welfare | Department: Department Of Health And Family Welfare
+Organisation: All India Institute Of Medical Sciences (AIIMS) | Office: Bhubaneswar
+EMD: Required (tracked via GeM ePBG portal)
+
+Minimum Average Annual Turnover of the Bidder (3 Years): Rs. 3 Lakh(s)
+OEM Average Turnover (Last 3 Years): Rs. 25 Lakh(s)
+Years of Past Experience Required: 3 Years
+MSE Relaxation for Years of Experience and Turnover: Yes (Complete)
+Startup Relaxation for Years of Experience and Turnover: Yes (Complete)
+Documents required from seller: Experience Criteria, Past Performance, Bidder Turnover, Authorization Certificate, OEM
+Annual Turnover supporting document
+Past Performance requirement: 80%
+Bid to RA (Reverse Auction) enabled: Yes | Type of Bid: Two Packet Bid | Evaluation Method: Item wise evaluation
+
+EMD Detail: Advisory Bank: Bank of India
+Schedule 1 EMD Amount (INR): 144 | Schedule 2 EMD Amount (INR): 275 | Schedule 3 EMD Amount (INR): 18,810
+EMD EXEMPTION: Bidder seeking EMD exemption must submit valid supporting documents for the relevant category per
+GeM GTC. Under MSE category only manufacturers (for goods) and Service Providers (for services) are eligible for
+exemption. Traders are excluded.
+
+MII (Make in India) Purchase Preference: Yes. Purchase Preference to MII sellers available up to price within L1+20%.
+Maximum % of bid quantity for MII purchase preference: 50%. Only Class 1/Class 2 local suppliers per Public
+Procurement (Preference to Make in India) Order 2017 (16.09.2020, as amended) may participate.
+MSE Purchase Preference: Yes. Purchase preference to MSE OEMs available up to price within L1+15%. Maximum % of bid
+quantity for MSE purchase preference: 25%.
+
+ELIGIBILITY / CONDITIONAL CLAUSES (verbatim structure):
+1. If the bidder is a Micro or Small Enterprise (MSE) per MSME orders, the bidder shall be relaxed from "Experience
+Criteria" subject to meeting quality/technical specs. Supporting documents required to prove eligibility for relaxation.
+2. If the bidder is an MSE, the bidder shall be relaxed from "Bidder Turnover" criteria. If the bidder is itself MSE OEM of the
+offered products, it is also relaxed from "OEM Average Turnover" criteria — subject to meeting quality/technical specs and
+uploading supporting documents.
+3. If the bidder is a DPIIT-registered Startup, relaxed from "Experience Criteria" — subject to meeting quality/technical
+specs, supporting documents required.
+4. If the bidder is a DPIIT-registered Startup, relaxed from "Bidder Turnover" criteria. If the bidder is DPIIT-registered OEM,
+also relaxed from "OEM Average Turnover" criteria — supporting documents required.
+5. Minimum average annual financial turnover: documentary evidence via certified Audited Balance Sheets or CA/Cost
+Accountant certificate for the relevant period; where bidder is <3 years old, average turnover since incorporation applies.
+6. Experience Criteria: Bidder or its OEM should have regularly manufactured/supplied same or similar Category Products
+to any Central/State Govt Organization/PSU as indicated in the bid document, with contract/delivery-acceptance certificate
+copies to be uploaded.
+7. OEM Turn Over Criteria: minimum average annual financial turnover of the OEM of the offered product, documentary
+evidence as above.
+8. Preference to Make In India products (bids < Rs.200 Crore): Class 1 local supplier certification from OEM on % local
+content; for bid value > Rs.10 Crore, declaration must be certified by statutory/cost auditor or practicing CA/cost
+accountant.
+9. Purchase preference to MSEs with valid Udyam Registration, validated online; L-1 vs MSE price-band rules (within L-1+
+15%) — 25% of quantity awarded to matching MSE seller at L-1 price.
+10. Estimated Bid Value used only for EMD/eligibility guidance, not price reasonableness.
+11. Past Performance: Bidder or its OEM should have supplied same/similar Category Products in at least one of the last
+three financial years to Central/State Govt Organization/PSU, with contract copies to be submitted.
+12. Reverse Auction (RA) participation rules including MSE/MII price-band exceptions.
+
+TECHNICAL SPECIFICATIONS (per item / schedule):
+Schedule 1 — Acyclovir Tablets (V2), Qty 1,000 tablets: Dosage Form: Tablet; Strength: 400mg; Primary pack: Strip, 10
+tablets/strip; valid drug manufacturing license under Drugs and Cosmetics Act required; all certifications/licenses/test
+reports to be submitted at bid submission and with supplies; Shelf life: 24-36+ months from manufacture. Min. 80%/51%
+local content required to qualify as Class 1/Class 2 local supplier respectively.
+Schedule 2 — Metoprolol Injection, Qty 540 pieces: Strength 1mg/mL, Ampoule, 5ml pack.
+Schedule 3 — Budesonide Respirator Solution for Nebulizer, Qty 33,000 pieces: Strength 0.5mg, Respule, 2ml pack.
+Consignee for all schedules: Gagan Bihari Naik, AIIMS Bhubaneswar, At-Sijua, Patrapada, Post-Dumuduma, Bhubaneswar,
+751019.
+
+SPECIAL TERMS AND CONDITIONS (Drugs & Cosmetics regulatory compliance — illustrative of statutory/documentary
+complexity):
+1. Sellers registered on GeM are exempted from Vendor Assessment based on undertaking + valid Manufacturing Drug
+License certified by issuing authority; buyer must validate license details via issuing authority records.
+2. Notarized Undertaking (on non-judicial stamp paper of Rs.10, notarized) required from seller: entity is manufacturer of
+the product, license granted under Drugs and Cosmetics Act 1940/Rules 1945, product details uploaded on SUGAM portal
+(CDSCO), declaration of accuracy with legal-action clause for false declaration.
+3-34. Extensive statutory/documentary requirements including: valid GMP/WHO-GMP Certificate; non-Conviction
+certificate (last 2 years); Manufacturing & Market Standing certificate (2 consecutive years); in-house testing facility + GLP
+Certificate; Maximum Production Capacity Certificate; Standard Testing Procedure (STP) documentation; stability data (3
+batches); non-blacklist/non-debarment declaration; notarized undertaking (Rs.100 stamp paper) on compliance with Drugs
+and Cosmetics Act 1940, Rules 1945, Drugs (Control) Act 1950, GST Act; price ceiling per DPCO/NPPA; Fall Clause; Shelf-life
+rules per Schedule P; Recall procedures; Inspection/Testing/Quality Control protocol (Pre-Dispatch / Delivery /
+Post-Delivery Surveillance stages, NABL-accredited labs); Deduction/Blacklisting/Termination-for-Default clauses;
+Warranty Certificate format; Packaging/Labelling/Marking per Drugs and Cosmetics Act; GS1 Bar Coding requirement;
+minimum 45-day delivery period with cold-chain requirement where applicable.
+
+BUYER-ADDED BID-SPECIFIC TERMS AND CONDITIONS:
+1. Experience Certificate for supply to any Govt/PSU/reputed private organisation with supporting documents.
+2. If registered under MSME or NSIC, EMD exemption certificate to be enclosed.
+3. Make in India specific authorisation certificate to be enclosed.
+4. Option Clause: Purchaser may increase/decrease ordered quantity up to 50% during contract currency, at contracted
+rates, with pro-rata extended delivery period (formula given).
+5. Forms of EMD and PBG: Fixed Deposit Receipt pledged in favour of AIIMS Bhubaneswar accepted, with bank certification
+of withdrawal conditions.
+6-7. Bidder Turnover Criteria / OEM Turnover Criteria (restated, documentary evidence requirements as above).
+8. Bidder's offer liable to rejection if any required certificate/document is not uploaded.
+9. Delivery/Installation address specified: AIIMS Bhubaneswar, Sijua, Patrapada, Bhubaneswar, PIN 751019.
+
+DISCLAIMER: Buyer-added ATC clauses are subject to GeM's prohibited-clause list (e.g., no mandatory physical document
+submission, no brand-specific mandates except PAC/Single-Bid cases, no foreign-experience-only requirements, no
+external-document references, no tender/participation fee). GeM Labour Code compliance clause included (Code on
+Wages 2019, Industrial Relations Code 2020, OSH Code 2020, Code on Social Security 2020, with continuity of pre-existing
+labour enactments until full notification). Restriction on bidders from countries sharing a land border with India (GeM GTC
+Clause 26) — such bidders eligible only if registered with the Competent Authority.
